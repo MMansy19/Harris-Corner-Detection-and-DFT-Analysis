@@ -1,4 +1,4 @@
-# Image Processing Assignment - Task 03
+# Harris Corner Detection and DFT Analysis - Project Course
 
 <div align="center">
   <img src="screenshots/output.jpg" alt="Project Output" width="80%">
